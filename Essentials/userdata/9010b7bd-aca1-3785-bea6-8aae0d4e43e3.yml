@@ -1,22 +1,22 @@
 lastAccountName: Heinz007
 timestamps:
-  login: 1523899651211
-  lastteleport: 1523900651135
-  logout: 1523906575651
+  login: 1524166000928
+  lastteleport: 1524166005529
+  logout: 1524170184166
 ipAddress: 127.0.0.1
 money: '200'
 lastlocation:
   world: world
-  x: 107.89088732578495
-  y: 80.0
-  z: -114.52314659122388
-  yaw: -92.182556
-  pitch: 4.4288735
+  x: 106.5
+  y: 35.0
+  z: -113.5
+  yaw: -177.72989
+  pitch: 58.12187
 afk: false
 logoutlocation:
   world: world
-  x: 141.23110606399524
+  x: 106.5
   y: 35.0
-  z: -101.42006359308195
-  yaw: -65.60449
-  pitch: -3.0017786
+  z: -114.5
+  yaw: -91.45465
+  pitch: 22.441893

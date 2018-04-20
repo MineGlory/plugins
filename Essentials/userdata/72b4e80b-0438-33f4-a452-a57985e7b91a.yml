@@ -1,0 +1,21 @@
+lastAccountName: Shockvin
+timestamps:
+  login: 1524153794177
+  lastteleport: 1524157369845
+  logout: 1524159455021
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 14.5
+  y: -257.09302431279616
+  z: 15.5
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+logoutlocation:
+  world: world
+  x: 195.7486829862232
+  y: 41.0
+  z: -115.7981441881978
+  yaw: -351.27905
+  pitch: 8.941211
